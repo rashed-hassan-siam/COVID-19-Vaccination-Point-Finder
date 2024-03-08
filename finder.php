@@ -66,7 +66,7 @@ include_once 'config/connection.config.php';
     <!-- <div id="iteration"></div>
     <div id="nodes"></div> -->
     <script async defer
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA492l51r5sWbbTWH36xzu8gW2G1SfcKcA&callback=initMap">
+      src="https://maps.googleapis.com/maps/api/js?key=YOUR_GOOGLE_API&callback=initMap">
     </script>
   </div>
 </body>
